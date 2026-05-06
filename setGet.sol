@@ -13,4 +13,8 @@ contract local
     {
         age=age+1;
     }
+    function setter(uint newage) public 
+    {
+        age = newage;
+    }
 }

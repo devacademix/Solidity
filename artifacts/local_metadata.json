@@ -24,6 +24,19 @@
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "newage",
+						"type": "uint256"
+					}
+				],
+				"name": "setter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -54,11 +67,11 @@
 	},
 	"sources": {
 		"setGet.sol": {
-			"keccak256": "0xa786f4a211eb7f4f4fb085424b727d04a04c410c4c1dd7eceb4a160aca5562e2",
+			"keccak256": "0x286add7fdc2aed95d625d354be3fb425092a0c45a83daa979178617ea7242328",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3d3f4279fbd5e0863dadb842e9f6217211fa638b3d86a2b1edac92dd483b0160",
-				"dweb:/ipfs/QmXPvLWkb2D6arN7cLKXsM2GryFmStySjHXXF1uHFa7CKM"
+				"bzz-raw://b18ce86777cca6817f73b39ec42c85fee3e447921f0a5fec9c6feda531f1a90a",
+				"dweb:/ipfs/QmV1dsko9ge2wDzRbDjcUo2opbKUf5U7Uk7TC6AfUKMrqe"
 			]
 		}
 	},
